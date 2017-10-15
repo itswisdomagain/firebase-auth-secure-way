@@ -32,11 +32,12 @@ I've delved pretty deep into Firebase Authentication
 ## About me
 I'm an avid learner, and a fervent teacher.
 
-I call myself a 
+### I call myself a 
 - #ChangeArchitect because I can't stay somewhere without seeking to improve matters;
 - #WideStack Developer because I spent the better part of my last 4-5 years gathering knowledge and experience on various programming languages, technologies, tools and stacks.
+- No one who knows me debate those  titles :smirk: 
 
-I build for
+### I build for
 - The web
   - Front end with Bootsrap, jQuery and Angular
   - Back end with PHP, ASP and Node js (Node js is my personal favorite)
@@ -49,6 +50,6 @@ I build for
   - With Swift and Xcode
   - With Xamarin and Visual Studio
 
-I've built apps for
+### I've built apps for
 - Blackberry 7.1
 - Windows Phones
