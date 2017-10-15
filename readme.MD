@@ -28,3 +28,27 @@ I've delved pretty deep into Firebase Authentication
 - Contributor to [Firebase Authentication for .NET SDK](https://github.com/step-up-labs/firebase-authentication-dotnet)
 - Wrote [Server-side Firebase Authentication for Node.js SDK](https://github.com/ThisIsRudigo/firebaseauth)
 - Currently building a Server-side Firebase Authentication for Java SDK with a friend and colleague as part of a project: [Nearbuy](https://admin.nearbuy.ng)
+
+## About me
+I'm an avid learner, and a fervent teacher.
+
+I call myself a 
+- #ChangeArchitect because I can't stay somewhere without seeking to improve matters;
+- #WideStack Developer because I spent the better part of my last 4-5 years gathering knowledge and experience on various programming languages, technologies, tools and stacks.
+
+I build for
+- The web
+  - Front end with Bootsrap, jQuery and Angular
+  - Back end with PHP, ASP and Node js (Node js is my personal favorite)
+- Android
+  - Primary language - Java
+  - Primary IDE - Android Studio
+  - Also build with Xamarin and Android Studio
+  - A big fan of Kotlin but I don't use it much yet
+- iOS
+  - With Swift and Xcode
+  - With Xamarin and Visual Studio
+
+I've built apps for
+- Blackberry 7.1
+- Windows Phones
