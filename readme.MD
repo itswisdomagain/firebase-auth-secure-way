@@ -25,6 +25,6 @@ Learn how to use the core principles highlighted in this talk to extend the powe
 
 ## Why I'm an authority on this topic
 I've delved pretty deep into Firebase Authentication
-Contributor to [Firebase Authentication for .NET SDK](https://github.com/step-up-labs/firebase-authentication-dotnet)
-Wrote [Server-side Firebase Authentication for Node.js SDK](https://github.com/ThisIsRudigo/firebaseauth)
-Currently building a Server-side Firebase Authentication for Java SDK with a friend and colleague as part of a project: [Nearbuy](https://admin.nearbuy.ng)
+- Contributor to [Firebase Authentication for .NET SDK](https://github.com/step-up-labs/firebase-authentication-dotnet)
+- Wrote [Server-side Firebase Authentication for Node.js SDK](https://github.com/ThisIsRudigo/firebaseauth)
+- Currently building a Server-side Firebase Authentication for Java SDK with a friend and colleague as part of a project: [Nearbuy](https://admin.nearbuy.ng)
